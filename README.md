@@ -1,2 +1,10 @@
 # Employee_Salary_Prediction
-![image alt](<img width="1920" height="1080" alt="11" src="https://github.com/user-attachments/assets/817a3c96-6d09-47df-a5cf-05539d7712a0" />)
+🌟 Project Title
+Employee Salary Prediction System
+🎓 Internship Details
+Internship Program: IBM SkillsBuild Virtual Internship
+Supported by: Edunet Foundation
+Platform: IBM SkillsBuild
+Duration: 6 Weeks (June 18, 2025 – July 30, 2025)
+Domain: Artificial Intelligence & Machine Learning
+Intern: J Nandini
