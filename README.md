@@ -6,7 +6,7 @@
 ### Employee Salary Prediction System
 
 
-![image alt](https://github.com/JNandini18/Employee_Salary_Prediction/blob/954fcd600bcc11789b04b86c1962d67ca6846273/screenshot1.png")
+![image alt](https://github.com/JNandini18/Employee_Salary_Prediction/blob/954fcd600bcc11789b04b86c1962d67ca6846273/screenshot1.png)
 
 
 ## 🎓 Internship Details
