@@ -9,6 +9,9 @@
 ![Screenshot](https://github.com/JNandini18/Employee_Salary_Prediction/blob/954fcd600bcc11789b04b86c1962d67ca6846273/screenshot1.png)
 
 
+# Output
+
+
 ![Screenshot](https://github.com/JNandini18/Employee_Salary_Prediction/blob/9621944240998374eb1311cb376436cc4f316c6b/screenshot2.png)
 
 
