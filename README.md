@@ -1,4 +1,4 @@
-# Employee_Salary_Prediction
+# Employee_Salary_Prediction using ML Algorithm
 
 
 ## 🌟 Project Title
@@ -67,7 +67,7 @@ An end-to-end **Streamlit-based ML application** featuring:
 
 ## 🗂️ Tools & Technologies Used
 
-* **Frontend**: Streamlit(for building and deploying a web-based user interface)
+* **Frontend**: Streamlit (for building and deploying a web-based user interface)
 
 * **Backend/ML:** Python, Pandas, Scikit-learn
 
