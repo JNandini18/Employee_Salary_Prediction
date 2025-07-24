@@ -28,6 +28,12 @@
 * **Domain**: Artificial Intelligence & Machine Learning
   
 * **Intern**: J Nandini
+
+
+# 🔗 Project Links
+📂 GitHub Repository: 
+
+🌐 Live Web App (Streamlit): https://employee-salary-classification-web-app.streamlit.app/
   
 
 ## ✨ Objective of the Project
