@@ -31,7 +31,7 @@
 
 
 # 🔗 Project Links
-📂 GitHub Repository: 
+📂 GitHub Repository: https://github.com/JNandini18/Employee_Salary_Prediction.git
 
 🌐 Live Web App (Streamlit): https://employee-salary-classification-web-app.streamlit.app/
   
